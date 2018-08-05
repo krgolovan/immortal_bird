@@ -1,6 +1,7 @@
 ## Immortal bird game (Flappy bird clone)
 
 Classic famous game without option to die. But if you hit the pipe your scores will be set to 0.
+Build with LibGDX framework so you can run it on desktop/html5/Android/iOS.
 
 Here is a link to Google [play](https://play.google.com/store/apps/details?id=com.kirill_golovan.immortalbird).
 
